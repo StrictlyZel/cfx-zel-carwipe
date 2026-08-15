@@ -14,6 +14,10 @@ The resource lets authorized staff start a vehicle wipe with a command and can a
 - Protection for occupied vehicles
 - Network control handling before vehicle deletion
 
+## Preview
+
+![Car wipe preview](https://i.imgur.com/crBom98.png)
+
 ## Requirements
 
 - [FiveM](https://fivem.net/)
